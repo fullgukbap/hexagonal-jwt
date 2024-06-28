@@ -35,38 +35,7 @@
 │   │       └── mysql
 │   │           ├── database.go
 │   │           ├── ent
-│   │           │   ├── client.go
-│   │           │   ├── ent.go
-│   │           │   ├── enttest
-│   │           │   │   └── enttest.go
-│   │           │   ├── generate.go
-│   │           │   ├── hook
-│   │           │   │   └── hook.go
-│   │           │   ├── intercept
-│   │           │   │   └── intercept.go
-│   │           │   ├── internal
-│   │           │   │   └── schema.go
-│   │           │   ├── migrate
-│   │           │   │   ├── migrate.go
-│   │           │   │   └── schema.go
-│   │           │   ├── mutation.go
-│   │           │   ├── predicate
-│   │           │   │   └── predicate.go
-│   │           │   ├── runtime
-│   │           │   │   └── runtime.go
-│   │           │   ├── runtime.go
-│   │           │   ├── schema
-│   │           │   │   ├── timemixin.go
-│   │           │   │   └── user.go
-│   │           │   ├── tx.go
-│   │           │   ├── user
-│   │           │   │   ├── user.go
-│   │           │   │   └── where.go
-│   │           │   ├── user.go
-│   │           │   ├── user_create.go
-│   │           │   ├── user_delete.go
-│   │           │   ├── user_query.go
-│   │           │   └── user_update.go
+│   │           │   ├── ... (many)
 │   │           ├── migration.go
 │   │           ├── repository
 │   │           │   └── user.go
