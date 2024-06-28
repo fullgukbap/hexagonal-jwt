@@ -1,0 +1,14 @@
+[database]
+user = "root"
+password = "qwe123"
+host = "localhost"
+port = "3306"
+database = "toktok"
+
+[token]
+key = "fjkdlsfj903jfodskjf0932iofjj2o02fij"
+accessDuration = "3h"
+refreshDuration = "2160h" # 90 day
+
+[handler]
+port = "8080"
